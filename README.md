@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Thiago Ribeiro 🖐️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thiagorlbeiro)
-[![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://instagram.com/thiagorlbeiro](https://www.linkedin.com/in/devthiagoribeiro/))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devthiagoribeiro/))
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=devthiagoribeiro&show_icons=true&theme=dracula&count_private=true)
 
