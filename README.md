@@ -13,7 +13,7 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="swift" src="https://img.shields.io/badge/Swift-ff6700?style=for-the-badge&logo=swift&logoColor=white" />
-  <img align="center" alt="c" src="https://img.shields.io/badge/C-ff6700?style=for-the-badge&logo=c&logoColor=white" />
+  <img align="center" alt="c" src="https://img.shields.io/badge/C-1b43c3?style=for-the-badge&logo=c&logoColor=white" />
 </div><br/>
 
 Apaixonado por tecnologia, enfretar desafios e desenvolver soluções para problemas reais.
